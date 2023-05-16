@@ -1,0 +1,16 @@
+.wrapper {
+  width: 60%;
+  margin: 0 auto;
+}
+.wrapper .form {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: column;
+}
+.wrapper .form input {
+  margin-bottom: 10px;
+}
+.wrapper .form img {
+  width: auto;
+  margin: 10px;
+}/*# sourceMappingURL=profile.css.map */
